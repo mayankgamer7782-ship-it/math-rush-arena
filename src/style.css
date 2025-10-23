@@ -1,0 +1,2 @@
+html, body { height: 100%; margin: 0; }
+#app { min-height: 100%; display: grid; place-items: start center; }
